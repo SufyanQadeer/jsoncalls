@@ -1,5 +1,5 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "dialogMessage": "Please update the app to countinue using it free.(Your musics will be backed up).",
   "currentAppID": "com.jsdevs.tubedownloadermusicmp3player",
   "newAppID": "com.jsdevs.tubedownloadermusicmp3player"
